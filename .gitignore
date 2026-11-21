@@ -1,0 +1,26 @@
+# Secrets - NEVER commit these
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Local data (used in later phases)
+*.db
+*.sqlite3
+chroma_data/
+uploads/
+
+# Node (used in later phases)
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

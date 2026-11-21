@@ -1,0 +1,26 @@
+Backend Engineer - Acme Cloud (Remote, Full-time)
+
+About the role
+Acme Cloud is looking for a mid-level Backend Engineer to help build the APIs behind our
+analytics platform. You will work with a small, friendly team and own features end to end.
+
+What you will do
+- Design, build and maintain REST APIs and backend services
+- Write clean, tested code and review teammates' pull requests
+- Optimize slow database queries and improve system reliability
+- Work with product managers to turn ideas into shipped features
+
+Requirements
+- 3+ years of professional experience as a backend developer
+- Strong Python skills, ideally with FastAPI or Django
+- Solid knowledge of SQL and relational databases (PostgreSQL preferred)
+- Experience designing RESTful APIs
+- Comfortable with Git and code review
+
+Nice to have
+- Experience with Docker and Kubernetes
+- Familiarity with AWS
+- Exposure to CI/CD pipelines
+- Experience with Redis or message queues
+
+Good communication and a collaborative attitude are important to us.

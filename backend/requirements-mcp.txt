@@ -1,0 +1,6 @@
+# Only needed to RUN the MCP server (Phase 8). The adapter itself uses just the standard library.
+# Kept apart from requirements.txt because MCP SDK v2 raises several dependency minimums
+# (pydantic>=2.12, sse-starlette>=3, a new opentelemetry-api) and replaces httpx with httpx2.
+# If this conflicts with the rest of your environment, install it in a separate virtual environment:
+# the MCP server needs nothing from the backend's own packages.
+mcp>=2,<3
